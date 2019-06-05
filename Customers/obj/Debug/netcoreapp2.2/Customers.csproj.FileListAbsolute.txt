@@ -1,0 +1,12 @@
+C:\Git\Phonebook\Customers\bin\Debug\netcoreapp2.2\Customers.deps.json
+C:\Git\Phonebook\Customers\bin\Debug\netcoreapp2.2\Customers.dll
+C:\Git\Phonebook\Customers\bin\Debug\netcoreapp2.2\Customers.pdb
+C:\Git\Phonebook\Customers\bin\Debug\netcoreapp2.2\General.dll
+C:\Git\Phonebook\Customers\bin\Debug\netcoreapp2.2\General.pdb
+C:\Git\Phonebook\Customers\obj\Debug\netcoreapp2.2\Customers.csprojAssemblyReference.cache
+C:\Git\Phonebook\Customers\obj\Debug\netcoreapp2.2\Customers.csproj.CoreCompileInputs.cache
+C:\Git\Phonebook\Customers\obj\Debug\netcoreapp2.2\Customers.AssemblyInfoInputs.cache
+C:\Git\Phonebook\Customers\obj\Debug\netcoreapp2.2\Customers.AssemblyInfo.cs
+C:\Git\Phonebook\Customers\obj\Debug\netcoreapp2.2\Customers.csproj.CopyComplete
+C:\Git\Phonebook\Customers\obj\Debug\netcoreapp2.2\Customers.dll
+C:\Git\Phonebook\Customers\obj\Debug\netcoreapp2.2\Customers.pdb

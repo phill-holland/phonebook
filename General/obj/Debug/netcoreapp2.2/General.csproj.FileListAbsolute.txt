@@ -1,0 +1,9 @@
+C:\Git\Phonebook\General\bin\Debug\netcoreapp2.2\General.deps.json
+C:\Git\Phonebook\General\bin\Debug\netcoreapp2.2\General.dll
+C:\Git\Phonebook\General\bin\Debug\netcoreapp2.2\General.pdb
+C:\Git\Phonebook\General\obj\Debug\netcoreapp2.2\General.csprojAssemblyReference.cache
+C:\Git\Phonebook\General\obj\Debug\netcoreapp2.2\General.csproj.CoreCompileInputs.cache
+C:\Git\Phonebook\General\obj\Debug\netcoreapp2.2\General.AssemblyInfoInputs.cache
+C:\Git\Phonebook\General\obj\Debug\netcoreapp2.2\General.AssemblyInfo.cs
+C:\Git\Phonebook\General\obj\Debug\netcoreapp2.2\General.dll
+C:\Git\Phonebook\General\obj\Debug\netcoreapp2.2\General.pdb
